@@ -616,12 +616,15 @@
     },
     {
         "id": 546,
-        "text": "si-",
+        "text": "si",
         "gloss": "this (by me)",
         "sourceRefs": [
             {
                 "pubId": 5,
                 "refText": "18"
+            },
+            {
+                "refText": "https://eldamo.org/content/words/word-4203581093.html"
             }
         ]
     },

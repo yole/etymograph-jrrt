@@ -372,17 +372,6 @@
         ]
     },
     {
-        "id": 37,
-        "text": "Andúnë",
-        "gloss": "West",
-        "sourceRefs": [
-            {
-                "pubId": 1,
-                "refText": "64"
-            }
-        ]
-    },
-    {
         "id": 39,
         "text": "pella",
         "gloss": "beyond",
@@ -4657,11 +4646,16 @@
         "id": 733,
         "text": "andúnë",
         "gloss": "sunset",
+        "fullGloss": "sunset, West",
         "pos": "N",
         "sourceRefs": [
             {
                 "pubId": 2,
                 "refText": "222"
+            },
+            {
+                "pubId": 1,
+                "refText": "64"
             }
         ]
     },
